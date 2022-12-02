@@ -1,0 +1,65 @@
+App Application Testing:
+
+APP TESTING, or website testing is checking your web application or website
+for porensal bugs before its made live and is accessible to general public. Web
+Testing checks for functionality, usability, security, performance of the web
+application or website.
+
+During this stage issues such as that of web application security, the functioning
+of the site, in access to handicapped as well as regular users and its ability to
+handle traffic is checked.
+
+Functionality Testing:
+
+This is used to check if your product as as per the specifications you ended for a
+as well as the functional requirements you charred out for a an your de
+velopmental documentation. Web based Testing Activites includes:
+
+Test all links in your webpages are working correctly and make sure there are no
+broken inks. Links to be checked will include:
+
+Usability testing:
+
+Usability Testing has now become a vital part of any web based project can be
+carried out by testers like you or a small focus group sort the anger audience of
+the web application
+
+Test the site Navigation:
+
+Menus, buttons or Links to different pages on your son should be easily visible
+and consistent on all webpages Test the Comments
+
+36
+
+Content should be legible with no spelling or grammatical mistakes if present
+should contain an "alt" text
+
+Interface Testing:
+
+Three areas to be sted here are-Application, Web and Database Server
+
+Application Test requests are sent correctly the Database and output at the client
+side is displayed correctly. if any must be caught by application and must be only
+shown to the administrator and not the end Web Server: Test Web server is
+handing all application requests without any service denial
+
+Database Server: Make sure queries sent to the database give expected results.
+
+Test system response when connection between the three lap er Application, Web
+and Database) cannot be shed and agent
+Database Testing:
+
+Database is one critical component of your web application and stress must be laid
+to test it thoroughly. Testing activities will include
+
+Performance Testing:
+
+This will ensure your site works under all loads. Software Testing activities will
+include but not limited to
+
+Website application response times at different connection speeds Load test your
+web application to determine its behaviour under normal and peak
+
+loads Stress test your web site to determine its break point when pushed to beyond
+
+Test if any errors are shown while executing queries
