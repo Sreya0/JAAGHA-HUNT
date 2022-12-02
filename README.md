@@ -1,5 +1,5 @@
 # JAAGHA-HUNT
-ABSTRACT
+
 Agriculturalist reaps a good crop Perhaps they manage to sell all of the food quickly to
 avoid losing it to waste, or they figure out how to get access to cold storage facilities to
 save the stuff they can't sell right away.
